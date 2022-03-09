@@ -1,0 +1,7 @@
+height = 804
+width = 411
+
+top padding from appbar = 60 //0.075
+bottom padding from card to bottom = 135 //0.17
+
+cardHeight = 560 //0.69
